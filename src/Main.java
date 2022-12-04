@@ -369,10 +369,6 @@ public class Main {
             System.out.println("O grande vencedor dessa temporada foi "+participante1.nome);
             System.out.println(participante1.nome+" obteve um total de "+participante1.pts+" pontos.\n");
         }
-        else{
-            System.out.println("O grande vencedor dessa temporada foi "+participante2.nome);
-            System.out.println(participante2.nome+" obteve um total de "+participante2.pts+" pontos.\n");
-        }
 
 
     }
